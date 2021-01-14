@@ -267,7 +267,7 @@ if __name__ == '__main__':
 
  ② 嵌入损失函数中： 
 
-Loss=Loss~raw_data~+Loss~trans_data~
+Loss = Loss(raw data) + Loss(trans data)
 
 ### 文件说明
 
