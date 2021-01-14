@@ -75,8 +75,22 @@ if __name__ == '__main__':
 ### 实验结果
 
 #### 降维结果图
-
-![iosmap_dim=2](\dim_reduction_figures\Glass)
+以下展示glass数据集在2、3维的低维表示：
+* iosmap
+![iosmap_dim=2](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/Isomap_outdim%3D2.png)
+![iosmap_dim=3](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/Isomap_outdim%3D3.png)
+* LE
+![LE_dim=2](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/LE_outdim%3D2.png)
+![LE_dim=3](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/LE_outdim%3D3.png)
+* LLE
+![LLE_dim=2](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/LLE_outdim%3D2.png)
+![LLE_dim=3](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/LLE_outdim%3D3.png)
+* MDS
+![MDS_dim=2](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/MDS_outdim%3D2.png)
+![MDS_dim=3](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/MDS_outdim%3D3.png)
+* T-SNE
+![T-SNE_dim=2](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/T-SNE_outdim%3D2.png)
+![T-SNE_dim=3](https://github.com/newbee-ML/Demsionnality-Reduction-on-ML/blob/main/dim_reduction_figures/Glass/T-SNE_outdim%3D3.png)
 
 #### 非监督学习结果
 
