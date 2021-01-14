@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
 #### 降维结果图
 
-
+![iosmap_dim=2](\dim_reduction_figures\Glass)
 
 #### 非监督学习结果
 
